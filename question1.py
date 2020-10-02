@@ -1,2 +1,2 @@
-input ("Enter a number: ")
-print (num * 8)
+num = int(input("Enter a number: "))
+print (int(num * 8))
